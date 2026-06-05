@@ -582,7 +582,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/bg-light.webp",
+    backgroundImageUrl: "/assets/137381983_p0.jpg",
     needLogin: false,
     isGuest: true, // 默认为游客状态
     isLoggedIn: false,
@@ -2510,7 +2510,7 @@ export default {
 .main {
   display: flex;
   height: 100%;
-  /* background-image: url(/assets/bg-light.webp); */
+  /* background-image: url(/assets/137381983_p0.jpg); */
   background-size: cover;
   background-position: center;
   overflow-y: auto;
